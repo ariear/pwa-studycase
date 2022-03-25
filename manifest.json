@@ -1,0 +1,24 @@
+{
+    "short_name": "Shoes",
+    "name": "Shoes App",
+    "icons": [
+      {
+        "src": "images/launcher-icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "images/launcher-icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": "index.html",
+    "background_color": "#3367D6",
+    "theme_color": "#3367D6",
+    "display": "standalone",
+    "scope": "",
+    "orientation": "potrait"
+  }
